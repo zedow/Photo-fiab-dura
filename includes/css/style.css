@@ -1,0 +1,595 @@
+
+html, body{
+	margin:0;
+	padding:0;
+	font-family: 'Arial Narrow',Arial;
+}
+#colonne
+{
+	background: #ffcc33;
+	width: 100%;
+	color: white;
+}
+
+table
+{
+	text-transform: uppercase;
+	font-family: 'Arial Narrow',Arial;
+}
+a:hover, a:focus
+{
+	text-decoration: none!important;
+}
+.importantCell
+{
+	color: #ffcc33;
+}
+#displaying
+{
+	display: flex;
+	justify-content: space-around;
+	height: 50px;
+	align-items: center;
+	
+}
+.displayingOption
+{
+	width: 90%;
+	margin: 30px;
+	align-items: center;
+	
+}
+.optionAffichag
+{
+	margin: auto;
+}
+.commentCell
+{
+	font-size: 12px;
+	text-transform: lowercase;
+}
+.imgCell
+{
+	font-size: 9px;
+}
+.buttonCell
+{
+	background: #ffcc33;
+	border: none;
+	padding: 10px;
+	width: 80%;
+	height: 80%;
+	text-transform: uppercase;
+}
+#tableauRecherche
+{
+	margin: 10px;
+	font-size: 11px;
+}
+.langageSelection
+{
+	height: 100%;
+	text-align: center;
+	line-height: 50px;
+	padding-right: 30px;
+	width: 100px;
+	display: flex;
+	justify-content: space-around;
+	text-decoration: none;
+}
+.langageSelection a
+{
+	color: black;
+}
+.langageSelection a:hover
+{
+	color: white;
+	cursor: pointer;
+}
+.countryFlag
+{
+	width: 50px;
+	height: 50px;
+}
+#france
+{
+	background: url('../img/france.png');
+	background-size: cover;
+	margin-left: 5px;
+}
+#england
+{
+	background: url('../img/england.png');
+	background-size: cover;
+	margin-right: 5px;
+}
+#logo
+{
+ 	background-color: #ffcc33;
+	height: 50px;
+	display: flex;
+	justify-content: space-between;
+}
+header
+{
+	width: 100%;
+	height: 60px;
+	display: flex;
+	text-decoration: none;
+	font-size: 12px;
+	text-transform: uppercase;
+
+}
+#header{
+	display: flex;
+	justify-content: space-between;
+        flex-wrap: wrap;
+	object-fit: cover;
+}
+.links
+{
+	display: flex;
+	align-items: center;
+}
+h2
+{
+	font-family: 'Arial Narrow',Arial;
+}
+header a
+{
+	margin-left: 30px;
+	margin-right: 30px;
+	color: black;
+}
+header a:hover
+{
+	color: #ffcc33;
+	text-decoration: none;
+}
+a
+{
+	text-decoration: none;
+}
+.separateur
+{
+	height: 40px;
+	width: 1px;
+	background: black;
+}
+.separateurButton
+{
+	height: 20px;
+	width: 1px;
+	background: black;
+	margin-left: 15px;
+	margin-right: 5px;
+}
+
+.form
+{
+	display: flex;
+	flex-direction: column;
+	width: 20%;
+	margin: auto;
+	margin-top: 60px;
+}
+form label
+{
+	font-weight: 700;
+	color: grey;
+}
+.selectForm
+{
+	border-style: solid !important;
+	border-color: grey !important;
+	border-left-color: grey !important;
+	border-width: 1px !important;
+	height: 30px !important;
+	border-radius: 0 !important;
+}
+.selectForm:hover
+{
+	border-color: #ffcc33!important;
+}
+.selectForm:focus
+{
+	border-color: #ffcc33!important;
+	outline: none!important;
+}
+.selectChosen
+{
+	border-style: solid !important;
+	border-color: grey !important;
+	border-left-color: grey !important;
+	border-width: 1px !important;
+	height: 30px !important;
+	border-radius: 0 !important;
+}
+.selectChosen:hover
+{
+	border-color: #ffcc33!important;
+}
+.selectChosen:focus
+{
+	border-color: #ffcc33!important;
+}	
+
+input, .inputsForm
+{
+	border-style: solid;
+	border-color: grey;
+	border-left-color: grey;
+	height: 30px;
+	margin-bottom: 15px;
+	padding: 5px;
+}
+#cycles { margin-left: 15px;}
+#date
+{
+	border-style: solid;
+	border-color: grey;
+	border-left-color: grey;
+	height: 30px;
+	padding: 5px;
+	border-radius: 0;
+	margin-top: 10px;
+}
+.separateurTitle
+{
+	width:100%;
+	height: 1px;
+	background-color: black;
+	margin-bottom: 5px;
+}
+.fileInput
+{
+	display: none;
+}
+.fileStyle
+{
+	background: #ffcc33;
+	margin: 10px;
+	width: 180px;
+	color: black;
+	text-transform: uppercase;
+	font-size: 12px;
+	display: flex;
+	padding: 15px;
+}
+.step
+{
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	width: 50%;
+	margin: auto;
+	padding: 30px;
+	display: flex;
+	flex-direction: column;
+}
+#stepDefinition
+{
+	display: flex;
+	justify-content: space-around;
+}
+.section
+{
+	margin-top: 10px;
+}
+.flex
+{
+	display: flex;
+}
+.informationBox
+{
+	float: left;
+	width: 50%;
+	margin-left: 25%;
+}
+.informations{
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width: auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
+.informations h3 {
+	color: #ffcc33;
+}
+.step h3
+{
+	color: #ffcc33;
+	margin: 0;
+}
+#separateurForm
+{
+	height: 30px;
+}
+.textArea
+{
+	border-style: solid;
+	border-color: grey;
+	border-left-color: grey;
+	border-radius: 0;
+	height: 200px;
+	resize: none;
+	width: 400px;
+	margin-bottom: 15px;
+	padding: 5px;
+	margin-top: 10px;
+}
+input:hover, .textArea:hover
+{
+	border-color: #ffcc33;
+}
+input:focus, .textArea:focus
+{
+	outline: none;
+}
+h3 
+{ 
+	font-family: 'Arial Narrow',Arial;
+}
+.submit
+{
+	padding: 10px;
+	margin: auto;
+	background-color: #ffcc33;
+	border: none;
+	font-family: Arial;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+	/* display: flex; */
+}
+h4
+{
+	text-align: center;
+}
+.submitAdmin
+{
+	border: none;
+	background: #ffcc33;
+	text-transform: uppercase;
+	font-size: 7px;
+	margin: 2px;
+}
+.fileAdmin
+{
+	border: none;
+}
+.center
+{
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+}
+.multiselect
+{
+	margin-bottom: 10px;
+}
+.fafa
+{
+	margin-left: 20px;
+}
+.submit:focus
+{
+	outline: none;
+}
+#pagination
+{
+	display: flex;
+	margin: auto;
+	justify-content: center;
+}
+.separateurBottom
+{
+	width: 100%;
+	height: 1px;
+	background: black;
+}
+.page
+{
+	width: 30px;
+	height: 30px;
+	background: #ffcc33;
+	margin-left: 5px;
+	margin-right: 5px;
+	text-align: center;
+	line-height: 30px;
+	color: black;
+	text-decoration: none;
+}
+.page:hover
+{
+	color: black;
+	cursor: pointer;
+}
+.titreSection
+{
+	color: #ffcc33;
+	font-family: Arial;
+}
+.titre
+{
+	text-align: center;
+}
+
+select
+{
+	height: 40px;
+	
+}
+
+select:focus
+{
+	outline: none!important;
+}
+/* #######################################################################################################################
+########################					Interface de recherche 					######################################
+########################															######################################
+########################################################################################################################## */
+.defauts
+{
+	width: 400px;
+	height: 450px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	padding: 10px;
+        margin-bottom: 20px;
+}
+.defauts h3
+{
+	color: #ffcc33;
+}
+.pdfLink
+{
+	font-size: 8px;
+}
+.pdfLink:hover
+{
+	text-decoration: none;
+}
+.defauts h4 { color: #ffcc33; }
+.commentBox
+{
+	width: 100%;
+	padding: 2px;
+	height: 125px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	overflow: hidden;
+	background-color: #f9f7f7;
+}
+.delete
+{
+	float: right;
+}
+.defautsBox 
+{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    flex-wrap: wrap;
+	margin-right: 0px;
+}
+.typeAjout
+{
+	display: flex;
+	margin: auto;
+	width: 350px;
+	justify-content: space-around;
+}
+#pageRecherche
+{
+	display: flex;
+}
+.addCompte
+{
+	display: flex;
+	justify-content: space-around;
+}
+.addComptePart
+{
+	margin: 5px;
+}
+#adminTitle
+{
+	margin-left: 30px;
+}
+.imgBox
+{
+	display: flex;
+	justify-content: space-between;
+	overflow: hidden;
+	width: 400px;
+	display: none;
+}
+.dftImg
+{
+	min-width: 80px;
+	height: 160px;
+	margin: 10px;
+	object-fit: cover;
+}
+.info { text-align: center;  color:Tomato; }
+.infoBox
+{
+	margin: 5px;
+	display: flex;
+	justify-content: space-around;
+}
+.flex
+{
+	display: flex;
+}
+.infoBox div
+{
+	width: 50%;
+}
+.infoBox ul
+{
+	margin: 0px;
+	list-style: none;	
+}
+.userBox
+{
+	display: flex;
+	justify-content: space-between;
+	height: 50px;
+	font-size: 12px;
+}
+.userBox div
+{
+	width: 50%;
+}
+.userInfo
+{
+	margin: 0;
+}
+.base
+{
+	
+}
+.linkBox
+{
+	text-align: center;
+	margin: 5px;
+}
+.linkBox:hover
+{
+	text-decoration: none;
+}
+#filtre
+{
+	float: right;
+	width: 20%;
+}
+
+.formDesign label
+{
+	margin: 2px;
+}
+.formPart
+{
+	display: flex;
+	flex-direction: column;
+}
+.slideTrie:hover
+{
+	cursor: pointer;
+}
+.titreFiltre { margin-left: 10px; }
+footer
+{
+	height: 50px;
+}
+
+.optionDefaut:hover
+{
+	cursor: pointer;
+}

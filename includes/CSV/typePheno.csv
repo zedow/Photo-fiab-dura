@@ -1,0 +1,100 @@
+AA;Démarrage difficile;Hard to start
+AB;Moteur cale;Engine stalls
+AC;Régime irrégulier,  trou/ pointe/ à-coup;Irregular engine speed
+AD;Etincelles, cliquetis, détonation;Sparks, detonation
+AE;Perte de puissance, faible accélération;Loss in power, low(weak) acceleration
+AFA*;Ralenti trop haut/ trop bas - ralenti instable, pompage - retour ralenti inexist;Slowed down too high / too low - slowed down unstable, slow pumping-return inexist
+AH;Vibrations au ralenti;Vibrations in slow motion
+AJ;Retour ralenti inexistant ou trop lent;In slow motion non-existent or too slow return
+AK;Surchauffe;Overheating
+AL;Consommation excessive de carburant;Excessive consumption of fuel
+AM;Consommation excessive d'huile;Excessive consumption of oil
+AN;Fuite de gaz d échappement;Exhaust gas leaking
+ANZ*;Fuite gaz echappement-fuite entree liquide refroidissement-fuite carburant (AN,;Leak gas escape(exhaust) - leak inlet(entry) closes out(liquidates) running cooling-leak
+AP;Fumée anormale;Abnormal smoke
+APP;Fumée anormale (Prime);Abnormal smoke(flue gas)
+AQ;Echec au test EPA (pollution US);Failure(Defeat) of the test EPA ( US pollution)
+BA;Boîte manuelle/embrayage passage difficile;Manual transmission / Clutch: difficult access
+BAZ*;Boite manuelle/embrayage passage difficile - glissement BV - effort d util. irre;Manual / clutch difficult access - sliding BV - irregular stress of use limps
+BB;Boîte manuelle: saut de vitesse;Manual transmission: jump of speed
+BC;Boîte manuelle/embrayage grésillement;Manual transmission / Clutch: crackling
+BCZL;Boîte manuelle/embrayage grésillement  -   bruit anormal, ronflement;Box manual / clutch crackling - abnormal noise, snore
+BD;Boîte auto : vitesse ne passe pas;Box automobile: speed passes no lead
+BE;Choc au passsage de vitesse;Box automobile: impact in the access of speed
+BFZH;Boite auto : passage de vitesse anormale-effort d utilisation irregulier/trop fo;Automobile limps: access of abnormal speed stress of use strong irrégulier/trop
+BG;Pas de débrayage;No lead of clutch release
+CA;Tirage gauche / droite / dérive / instabilité;Left(Awkward) edition / right-hand side / drift(vertical stabilizer) / instability
+CB;Confort / comportement médiocre;Comfort / inferior behavior
+CD;Usure irrégulière des pneus avant;Irregular wear of the front tires
+DA;Freinage médiocre;Inferior braking
+DAP;Freinage médiocre (');Inferior braking (')
+DB;Tirage gauche / droite au freinage;Left(Awkward) edition / right-hand side in the braking
+EB;Manoeuvre difficile de la direction;Difficult manoeuvre(laborer) of the steering(management)
+FAZJ;Jeu excessif / mauvais alignement;Excessive / bad gap(clearance) alignment
+FBZ*;Défaut d'ouverture / fermeture / verrouillage + efforts manoeuvre (FB, ZG, ZH);Defect of opening / lock(closure) / locking + stresses maneuvers (FB, ZG, ZH)
+FBZG;Défaut d'ouverture / fermeture / verrouillage;Defect of opening / lock(closure) / locking
+FBZH;Défaut d'ouverture / fermeture + efforts manoeuvre;Defect of opening / lock(closure) + stresses maneuvers
+FC;Défaut d'ouverture / fermeture de vitre;Defect of opening / lock(closure) of window
+FDGD;Mauvaise visibilité / dégivrage;Bad visibility / defrost
+FE;Ceinture de sécurité défectueuse;Defective safety belt
+ 
+GA;Chauffage médiocre;Inferior heating
+GAGB;Chauffage / réfrigération médiodre;Heating / inferior refrigeration
+GC;Distribution d'air / équilibre / puissance médiocre;Timing(Distribution) of air / balance / inferior power
+ 
+HA;Batterie hors d'usage;Out of service battery
+ 
+HB;Mauvaise réception/qualité audio;Bad audio reception / quality
+HC;Voyant d'alerte allumé;Lit(Switched on) indicator of alert
+ 
+HD;Voyant MIL allumé (alerte dépollution moteur);Seeing THOUSAND lit(switched on) (alert decontamination engine)
+HDHC;Voyant MIL allumé - Voyant alerte allumé;Seeing THOUSAND lit(switched on) - Seeing alert lit(switched on)
+UA;Accélération intempestive;Inconvenient acceleration
+ZA;APPARENCE MEDIOCRE;Inferior appearance
+ZAP;Apparence médiocre (');Inferior appearance (')
+ZAS;Apparence médiocre ('');Inferior appearance ('')
+ZAV;Aspect, visibilité;Appearance, visibility
+ZBZC;Peinture / vernis médiocre (réparation seulement);Paint / inferior varnish (repair only)
+ZC;Finition de peinture médiocre;Finishing of inferior paint
+ZD;Corrosion caisse et perforation;Corrosion body(box) and perforing
+ZE;Mauvaises performances, ne fonctionne pas;Bad performances, work no lead
+ZEBD;Mauvaise perfo, ne fonctionne pas / Vitesse ne passe pas;Bad perfo, work no lead / Speed passes no lead
+ZEP;Mauvaises performances, ne fonctionne pas (Prime);Bad performances, works no lead (Premium)
+ 
+ZF;Glisse, ne s'engage pas;Glide, undertakes no lead
+ZFP;Glisse, ne s'engage pas;Glide, undertakes no lead
+ZFZG;Glisse ne s'engage pas - Verrouillage/Dévérouillage défectueux;Glide undertakes no lead - defective Locking / unbolting
+ZG;Verrouillage / déverrouillage défectueux;Locking / defective unlocking
+ZH;Effort d utilisation irrégulier / trop fort / trop faible;Irregular stress of use / too strong / too low(weak)
+ZHP;Effort d'utilisation irrégulier/trop fort/trop faible (');Stress of use strong/too much low(weak) irrégulier/trop (')
+ZHZE;Problème de fonctionnement;Operating problem
+ZJ;Jeu excessif;Excessive gap(clearance)
+ZJP;Jeu excessif (Prime);Excessive gap(clearance) (Premium)((Outdoes),(Subsidizes),(Dominates))
+ZJPP;Jeu excessif (seconde);Excessive gap(clearance) (assists)((second))
+ZJZF;Jeu excessif, glissement, non engagement;Excessive gap(clearance), sliding, not commitment
+ZK;Touché/sensation inconfortable;Got(Touched) / uncomfortable sensation
+ 
+ZL;Bruit anormal, ronflement;Abnormal noise, snore
+ZLM;Bruit;Noise
+ZLMN;Bruits, Vibrations;Noise, Vibrations
+ZLN;Bruit, vibration, hors bruit d'air;Noise, vibration, except noise of air
+ 
+ZLP;Bruit anormal, ronflement (Prime);Abnormal noise, snore (Premium)
+ZM;Bruit d'air;Noise of air
+ZMT;Bruit entrées d'air;Noise air inlets
+ZN;Vibration;Vibration
+ 
+ZP;Broutement claquement;Brake chatter / banging
+ZQ;Fuite ou entrée de liquides divers;Leak / inlet water / liquid of cooling
+ZQP;Fuite ou entrée de liquides divers (Prime);Leak or inlet(entry) of different liquids (Premium)((Outdoes),(Subsidizes),(Dominates))
+ZR;Fuite d huile, fuite de graisse;Oil leak, leak of lubricant
+ 
+ZS;Fuite de carburant;Leak of fuel
+ZT;Fuite / entrée d'air;Leak / inlet of air
+ 
+ZU;Entrée de poussière;Inlet(Entry) of dust
+ZUZR;Entrée de poussière, fuite d'huile, fuite de graisse;Entered by dust, oil leak, leak of lubricant
+ZV;Odeur inhabituelle (sauf carburant);Unusual smell (except fuel)
+ZW;Odeur de carburant;Smell of fuel
+ZY;Partie manquante;Parts missing
+ZZ;Autres;Others
